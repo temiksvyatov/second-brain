@@ -1,0 +1,17 @@
+{
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "MesloLGL Nerd Font",
+  "textFontFamily": "MesloLGL Nerd Font",
+  "monospaceFontFamily": "MesloLGL Nerd Font Mono",
+  "baseFontSize": 14,
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "Colored Sidebar Items",
+    "Notebook Backgrounds",
+    "CyanVoxel General Tweaks",
+    "Daily Note Themes",
+    "Minecraft",
+    "Runescape main"
+  ]
+}

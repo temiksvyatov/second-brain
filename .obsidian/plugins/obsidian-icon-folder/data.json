@@ -1,0 +1,69 @@
+{
+  "settings": {
+    "migrated": 5,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "BoBxsBookAlt",
+      "🧑‍🎓",
+      "BoBxlInternetExplorer",
+      "BoBxCodeAlt",
+      "BoBxsLeaf"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": "Log",
+        "icon": "BoBxsNote",
+        "for": "everything",
+        "order": 0
+      },
+      {
+        "rule": "Default",
+        "icon": "BoBxsPencil",
+        "for": "everything",
+        "order": 1
+      },
+      {
+        "rule": "Tips",
+        "icon": "BoBxListCheck",
+        "for": "everything",
+        "order": 2,
+        "useFilePath": true
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "01 - Projects": "BoBxListCheck",
+  "02 - Areas": "BoBxArea",
+  "03 - Resources": "BoBxData",
+  "00 - MOC": "BoBxsInbox",
+  "07 - Archives": "BoBxArchive",
+  "04 - Permanent": "BoBxsBookmark",
+  "05 - Fleeting": "BoBxsLeaf",
+  "02 - Areas/DEV": "BoBxCodeAlt",
+  "02 - Areas/DEV/Networking": "BoBxlInternetExplorer",
+  "02 - Areas/HSE": "BoBxsBookAlt",
+  "06 - Daily": "BoBxlDailymotion",
+  "99 - Meta": "BoBxMessageAltError",
+  "99 - Meta/11 - Files": "BoBxFile",
+  "99 - Meta/00 - Templates": "BoBxText"
+}

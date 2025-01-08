@@ -1,0 +1,13 @@
+---
+date:
+  - <% tp.date.now("DD/MM/YYYY HH:mm") %>
+tags: 
+cssclasses:
+  - image-borders
+  - neutral-pen-black
+  - page-manila
+  - <%
+  - tp.date.now("dddd")
+  - "%>"
+---
+# <% tp.file.cursor() %>

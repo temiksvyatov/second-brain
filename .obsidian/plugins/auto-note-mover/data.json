@@ -1,0 +1,43 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "02 - Areas/VVDEV",
+      "tag": "#vvdev",
+      "pattern": ""
+    },
+    {
+      "folder": "02 - Areas/VVDEV",
+      "tag": "#vvdev/devops",
+      "pattern": ""
+    },
+    {
+      "folder": "02 - Areas/VVDEV",
+      "tag": "#vvdev/sledge",
+      "pattern": ""
+    },
+    {
+      "folder": "02 - Areas/VVDEV",
+      "tag": "#vvdev/cuv",
+      "pattern": ""
+    },
+    {
+      "folder": "02 - Areas/VVDEV",
+      "tag": "#vvdev/cuv/gleb/review",
+      "pattern": ""
+    },
+    {
+      "folder": "02 - Areas/VVDEV",
+      "tag": "#vvdev/betting",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": ""
+    }
+  ]
+}
