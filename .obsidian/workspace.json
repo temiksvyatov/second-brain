@@ -11,10 +11,14 @@
             "id": "d350f89a4fcf2b26",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "202501081620 Как заставить мозг трудиться.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "202501081620 Как заставить мозг трудиться"
             }
           }
         ]
@@ -68,6 +72,26 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "b3cba62d6f3574a6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "d4775c7b54b0479e",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
           }
         ]
       }
@@ -89,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "202501081620 Как заставить мозг трудиться.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 202501081620 Как заставить мозг трудиться"
             }
           },
           {
@@ -136,8 +161,33 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "01eb94192e406b30",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "aa68f8b429c9db5c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -145,17 +195,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "homepage:Open homepage": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "d350f89a4fcf2b26",
   "lastOpenFiles": [
+    "202501081615 Как правильно конфликтовать.md",
+    "202501081620 Как заставить мозг трудиться.md",
+    "202501081610 Как бустануть свой мозг.md",
+    "202501081605 Как научиться чему угодно за 20 часов.md",
+    "202409250959.md",
+    "00 - MOC/Home.md",
     "06 - Daily/202405131042.md",
     "06 - Daily/202405140828.md",
     "06 - Daily",
@@ -180,14 +245,11 @@
     "02 - Areas/HSE/202409091759 Макроэкономика - 1.md",
     "02 - Areas/DEV/Networking",
     "02 - Areas/DEV/202409160964 Dockerfile.md",
-    "02 - Areas/DEV/202409131442 Как работает Docker.md",
-    "02 - Areas/HSE/202409061801 Семинар наставника — 1.md",
     "02 - Areas/VVDEV",
     "02 - Areas/Sport",
     "02 - Areas/HSE",
     "02 - Areas/DEV",
     "02 - Areas",
-    "00 - MOC/Home.md",
     "00 - MOC",
     "99 - Meta/11 - Files/Pasted image 20240925173612.png",
     "99 - Meta/11 - Files/Pasted image 20240925173552.png",
@@ -198,9 +260,6 @@
     "99 - Meta/11 - Files/Pasted image 20240916092718.png",
     "99 - Meta/11 - Files/Pasted image 20240913155737.png",
     "99 - Meta/11 - Files/Pasted image 20240910150137.png",
-    "99 - Meta/11 - Files/Pasted image 20240909182152.png",
-    "99 - Meta/00 - Templates/Default Template.md",
-    "99 - Meta/00 - Templates/Daily Log.md",
-    "99 - Meta/00 - Templates/202405151051% tp.date.now(dddd, MMMM Do, YYYY) %.md"
+    "99 - Meta/11 - Files/Pasted image 20240909182152.png"
   ]
 }
