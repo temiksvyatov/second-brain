@@ -1,6 +1,6 @@
 {
   "showLineNumber": true,
-  "spellcheck": false,
+  "spellcheck": true,
   "vimMode": false,
   "trashOption": "local",
   "alwaysUpdateLinks": true,
@@ -14,5 +14,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "propertiesInDocument": "visible"
 }

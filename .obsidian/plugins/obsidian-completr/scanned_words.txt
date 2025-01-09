@@ -319,6 +319,8 @@ Settings
 Smart
 Slides
 SHELL
+SQ
+Survey
 date
 daily
 dddd
@@ -915,6 +917,8 @@ RAM
 Redis
 RUN
 README
+Read
+Recite
 your
 you
 yX
@@ -1046,6 +1050,7 @@ GDPR
 GIF
 Github
 GUI
+GALLUP
 Video
 VVDEV
 VSCode
@@ -1131,3 +1136,4 @@ Qe
 QW
 QA
 Quick
+Question
