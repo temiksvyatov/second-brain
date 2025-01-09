@@ -1,7 +1,7 @@
 {
-  "commitMessage": "vault backup: {{date}}",
+  "commitMessage": "{{date}} - {{hostname}}\n\n### Commit: {{numFiles}} files changed\n\n---\n\n**Backup completed on {{hostname}} at {{date}}**\n\nThis commit includes changes from {{numFiles}} files as part of the manual backup process.",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 15,
+  "autoSaveInterval": 60,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": false,
@@ -13,13 +13,13 @@
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
-  "customMessageOnAutoBackup": false,
+  "customMessageOnAutoBackup": true,
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": false,
-  "changedFilesInStatusBar": false,
+  "changedFilesInStatusBar": true,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true,
@@ -31,7 +31,7 @@
   "dateInHistoryView": false,
   "lineAuthor": {
     "show": false,
-    "followMovement": "inactive",
+    "followMovement": "same-commit",
     "authorDisplay": "initials",
     "showCommitHash": false,
     "dateTimeFormatOptions": "date",
@@ -50,9 +50,9 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
-    "gutterSpacingFallbackLength": 5,
+    "gutterSpacingFallbackLength": 12,
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "vault backup: {{date}}"
+  "autoCommitMessage": "{{date}} - {{hostname}}\n\n### Commit: {{numFiles}} files changed\n\n---\n\n**Backup completed on {{hostname}} at {{date}}**\n\nThis commit includes changes from {{numFiles}} files as part of the manual backup process."
 }
