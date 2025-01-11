@@ -321,6 +321,9 @@ Slides
 SHELL
 SQ
 Survey
+Sabi
+Shoshin
+Shinrin
 date
 daily
 dddd
@@ -450,6 +453,7 @@ YA
 Yzku
 YADRO
 Yii
+Yoku
 HH
 Hello
 HTTP
@@ -972,6 +976,7 @@ IMAP
 ISA
 IPC
 InterProcess
+Ikigai
 Better
 Back
 BBFABBA
@@ -1051,6 +1056,7 @@ GIF
 Github
 GUI
 GALLUP
+Ganbaru
 Video
 VVDEV
 VSCode
@@ -1104,6 +1110,7 @@ Wide
 Word
 WORKDIR
 Write
+Wabi
 UPDATE
 UW
 Uw
@@ -1128,6 +1135,7 @@ KT
 KV
 Ki
 Kcal
+Kaizen
 ZK
 xA
 xM
