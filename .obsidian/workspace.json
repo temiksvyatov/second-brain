@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "d3bde5ff0dd26d33",
         "type": "tabs",
         "children": [
           {
@@ -33,6 +33,7 @@
       {
         "id": "bc1c09fdf931c3cc",
         "type": "tabs",
+        "dimension": 70.54263565891473,
         "children": [
           {
             "id": "1ca2a3bb6456bf41",
@@ -74,16 +75,6 @@
             }
           },
           {
-            "id": "b3cba62d6f3574a6",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          },
-          {
             "id": "01b97b7bd507cb18",
             "type": "leaf",
             "state": {
@@ -93,12 +84,28 @@
               "title": "File Tree"
             }
           }
-        ],
-        "currentTab": 4
+        ]
+      },
+      {
+        "id": "fef5d49ccea286f3",
+        "type": "tabs",
+        "dimension": 29.457364341085274,
+        "children": [
+          {
+            "id": "b3cba62d6f3574a6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 309.5
   },
   "right": {
     "id": "e8a398e10c938d21",
@@ -107,6 +114,7 @@
       {
         "id": "6fdca78c36e1b3b9",
         "type": "tabs",
+        "dimension": 47.67156862745098,
         "children": [
           {
             "id": "075b2b22484195ad",
@@ -164,6 +172,16 @@
             }
           },
           {
+            "id": "aa68f8b429c9db5c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
             "id": "01eb94192e406b30",
             "type": "leaf",
             "state": {
@@ -176,17 +194,15 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "aa68f8b429c9db5c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "44dfdb53da3feace",
+        "type": "tabs",
+        "dimension": 52.32843137254902,
+        "children": [
           {
             "id": "528414771258ae27",
             "type": "leaf",
@@ -197,37 +213,36 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "homepage:Open homepage": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "zk-prefixer:Create new unique note": true,
+      "workspaces:Manage workspace layouts": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "templater-obsidian:Templater": true,
+      "omnisearch:Omnisearch": true,
+      "file-tree-alternative:File Tree Alternative Plugin": true,
+      "darlal-switcher-plus:Open in Headings Mode": true,
+      "darlal-switcher-plus:Open Symbols for the active editor": true,
+      "homepage:Open homepage": true,
+      "obsidian-advanced-slides:Show Slide Preview": true,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "obsidian-git:Open Git source control": true
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "1ca2a3bb6456bf41",
   "lastOpenFiles": [
+    "00 - MOC/Home.md",
     "202501111247 Персонализированный план тренировок и питания.md",
     "202501091600 Заметки по продуктивности.md",
     "202501091631 Практика коммуникационных способностей.md",
@@ -247,7 +262,6 @@
     "202501081615 Как правильно конфликтовать.md",
     "202501081610 Как бустануть свой мозг.md",
     "202501081605 Как научиться чему угодно за 20 часов.md",
-    "00 - MOC/Home.md",
     "06 - Daily/202405131042.md",
     "06 - Daily/202405140828.md",
     "06 - Daily",
